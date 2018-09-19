@@ -1,12 +1,6 @@
 <?php require 'partials/header.php'; ?>
 
-
-<h1>Submit your name</h1>
-
-<form action="/names" method="POST">
-    <input type="text" name="name">
-    <button type="submit">Submit</button>
-</form>
+<h1>Home page</h1>
 
 <?php require 'partials/footer.php'; ?>
 
